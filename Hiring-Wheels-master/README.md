@@ -1,8 +1,4 @@
-# Hiring-Wheels
+# Hiring-Wheels Gopal 19csu115
 Mini Project HireWheels Application
 
-Login API
-![Screenshot (15)](https://user-images.githubusercontent.com/65302454/199064433-a4b41c43-2384-4990-b3a4-1d2156220de0.png)
-
-Register API
-![Screenshot (14)](https://user-images.githubusercontent.com/65302454/199064464-d42375f0-58a0-49a8-b6cb-6ebbd1fca641.png)
+![WhatsApp Image 2022-11-02 at 7 31 45 PM](https://user-images.githubusercontent.com/68118204/199530642-aa1f0a18-0f45-41cc-a165-6b7e2af39473.jpeg)
